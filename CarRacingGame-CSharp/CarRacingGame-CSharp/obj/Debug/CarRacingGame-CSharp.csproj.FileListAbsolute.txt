@@ -1,0 +1,10 @@
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\bin\Debug\CarRacingGame-CSharp.exe.config
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\bin\Debug\CarRacingGame-CSharp.exe
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\bin\Debug\CarRacingGame-CSharp.pdb
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\obj\Debug\CarRacingGame_CSharp.Form1.resources
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\obj\Debug\CarRacingGame_CSharp.Properties.Resources.resources
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\obj\Debug\CarRacingGame-CSharp.csproj.GenerateResource.cache
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\obj\Debug\CarRacingGame-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\obj\Debug\CarRacingGame-CSharp.exe
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\obj\Debug\CarRacingGame-CSharp.pdb
+C:\Users\junle\source\repos\CarRacingGame-CSharp\CarRacingGame-CSharp\obj\Debug\CarRacingGame-CSharp.csprojAssemblyReference.cache
